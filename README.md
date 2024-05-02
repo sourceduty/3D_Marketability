@@ -42,5 +42,44 @@ This design is not only visually appealing but also smartly bridges multiple int
 <br>    
 </details>
 
+<details><summary>3D Printable Diamond Vase</summary>
+<br>
+
+![3D Printed Diamond Vase](https://github.com/sourceduty/Design_Marketability/assets/123030236/75a0e6fe-a42c-45e5-9329-88405b06c632)
+
+Aesthetic Appeal:
+
+- Shape and Form: The model presents a striking geometric form, combining simplicity and complexity. The interconnected shapes and continuous loop create an intriguing visual effect.
+- Color and Texture: The gradient texture adds a subtle visual gradient, enhancing the dimensional feel and making the model look modern and appealing.
+
+Technical Functionality:
+
+- Structural Integrity: The design appears robust with thick walls, contributing to its stability. The angles and connections seem well-calculated for balance.
+- Material Usage: Assuming use of typical 3D printing materials like PLA or ABS, the model should be lightweight yet sturdy.
+
+Market Alignment and Potential Uses:
+
+- Target Market: Suitable for educational sectors for geometry teaching aids, modern art collectors, and design enthusiasts.
+- Decorative Potential: Ideal as a contemporary decorative item in modern homes or offices.
+
+Recommendations for Improvement:
+
+- Functionality Enhancement: Consider adding practical value by integrating functionality, such as a lampshade or container.
+- Variants: Offering variations in color, size, or material types (metallic or translucent finishes) could broaden appeal.
+
+Positioning in the Market:
+
+- Differentiation: Emphasize the design's uniqueness and geometric complexity. Highlight its dual use as an educational tool and decorative piece.
+- Marketing Strategy: Use high-quality visuals to market the product on platforms like Etsy or Pinterest, targeting design and art enthusiasts.
+
+Pricing Strategy:
+
+- Considering design and potential production costs, a mid-to-high price range would be suitable. Pricing could vary based on size, material, and customization options but should start from a baseline reflecting its artistic and functional value.
+
+Overall, this 3D model has strong market potential as both a decorative and potentially educational piece. Adjusting and expanding features according to feedback can enhance its marketability.
+
+<br>    
+</details>
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
