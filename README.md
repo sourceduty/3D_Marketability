@@ -7,7 +7,7 @@ In terms of assistance, 'Design Marketability' provides strategic advice on effe
 #
 ### Example Usage
 
-<details><summary>AI</summary>
+<details><summary>Mona Lisa Science Beaker</summary>
 <br>
 
 ![Mona Lisa Science Beaker](https://github.com/sourceduty/Design_Marketability/assets/123030236/35e8364d-8f9d-498e-83a0-92864b88afbb)
