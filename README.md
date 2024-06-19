@@ -82,6 +82,7 @@ Overall, this 3D model has strong market potential as both a decorative and pote
 </details>
 
 #
+### Related Links
 
 [Product Design](https://github.com/sourceduty/Product_Design)
 <br>
