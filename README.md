@@ -1,4 +1,4 @@
-![Design Marketability](https://github.com/sourceduty/Design_Marketability/assets/123030236/256d85c0-fa05-4faf-8d91-28e5222fcd25)
+![Flask](https://github.com/sourceduty/Design_Marketability/assets/123030236/bec1273d-a7e5-4c22-b73a-eb30ce2189cd)
 
 [Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability) serves as a specialized consultant for assessing the commercial potential of 3D models. It evaluates various critical aspects of designs including their aesthetic appeal, technical functionality, and how well they align with current consumer preferences. By examining how these models fit into broader market trends and potential niche markets, 'Design Marketability' offers detailed critiques of design elements and provides practical suggestions for improvements. This service is designed to help increase the market appeal of designs and ensure they are well-suited for their target audiences.
 
