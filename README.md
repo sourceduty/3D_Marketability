@@ -80,6 +80,11 @@ Overall, this 3D model has strong market potential as both a decorative and pote
 
 <br>    
 </details>
+#
+
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Timeless Products](https://github.com/sourceduty/Timeless_Products)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
